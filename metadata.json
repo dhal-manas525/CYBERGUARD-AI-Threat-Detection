@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard - AI Cyber Threat & Impersonation Detection",
+  "description": "AI-powered cyber threat, phishing, and digital impersonation detection engine powered by CyberTrust Intelligence™.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

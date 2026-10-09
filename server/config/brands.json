@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sbi",
+    "name": "State Bank of India",
+    "shortName": "SBI",
+    "official_domains": ["onlinesbi.sbi", "sbi.co.in", "bank.sbi"],
+    "keywords": ["sbi", "state bank of india", "onlinesbi", "yono"],
+    "category": "Banking",
+    "country": "IN",
+    "critical_assets": ["YONO", "INB Login", "Net Banking", "OTP", "ATM PIN"]
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal Inc.",
+    "shortName": "PayPal",
+    "official_domains": ["paypal.com", "paypal.me", "paypal-community.com"],
+    "keywords": ["paypal", "paypal-service", "paypal-security"],
+    "category": "Payments & Fintech",
+    "country": "US",
+    "critical_assets": ["Account Login", "Wallet", "Credit Card", "Two-Factor Auth"]
+  },
+  {
+    "id": "google",
+    "name": "Google LLC",
+    "shortName": "Google",
+    "official_domains": ["google.com", "accounts.google.com", "gmail.com", "youtube.com", "workspace.google.com"],
+    "keywords": ["google", "gmail", "google-account", "google-security"],
+    "category": "Technology",
+    "country": "US",
+    "critical_assets": ["Google Account", "Gmail", "Password Recovery", "2FA"]
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft Corporation",
+    "shortName": "Microsoft",
+    "official_domains": ["microsoft.com", "live.com", "office.com", "outlook.com", "login.microsoftonline.com"],
+    "keywords": ["microsoft", "office365", "outlook", "onedrive", "azure"],
+    "category": "Technology",
+    "country": "US",
+    "critical_assets": ["Microsoft 365", "Outlook", "Azure AD", "Windows Security"]
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon.com Inc.",
+    "shortName": "Amazon",
+    "official_domains": ["amazon.com", "amazon.in", "amazon.co.uk", "amazon.de", "aws.amazon.com"],
+    "keywords": ["amazon", "prime", "aws", "amazon-pay"],
+    "category": "E-Commerce & Cloud",
+    "country": "US",
+    "critical_assets": ["Buyer Account", "Prime Membership", "Payment Cards", "AWS Console"]
+  },
+  {
+    "id": "apple",
+    "name": "Apple Inc.",
+    "shortName": "Apple",
+    "official_domains": ["apple.com", "icloud.com", "appleid.apple.com"],
+    "keywords": ["apple", "icloud", "appleid", "itunes"],
+    "category": "Technology",
+    "country": "US",
+    "critical_assets": ["Apple ID", "iCloud Keychain", "Find My", "Device Passcode"]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix Inc.",
+    "shortName": "Netflix",
+    "official_domains": ["netflix.com"],
+    "keywords": ["netflix", "netflix-billing", "netflix-verify"],
+    "category": "Entertainment",
+    "country": "US",
+    "critical_assets": ["Subscription Billing", "Credit Card", "Account Credentials"]
+  },
+  {
+    "id": "chase",
+    "name": "JPMorgan Chase & Co.",
+    "shortName": "Chase",
+    "official_domains": ["chase.com", "jpmorganchase.com"],
+    "keywords": ["chase", "chasebank", "chase-online"],
+    "category": "Banking",
+    "country": "US",
+    "critical_assets": ["Chase Online Banking", "Checking & Savings", "Wire Transfer"]
+  },
+  {
+    "id": "binance",
+    "name": "Binance Holdings Ltd.",
+    "shortName": "Binance",
+    "official_domains": ["binance.com", "binance.us"],
+    "keywords": ["binance", "binance-verify", "bnb-chain"],
+    "category": "Cryptocurrency",
+    "country": "Global",
+    "critical_assets": ["Crypto Wallet", "API Keys", "2FA Authenticator", "Withdrawal PIN"]
+  },
+  {
+    "id": "meta",
+    "name": "Meta Platforms Inc.",
+    "shortName": "Meta / Facebook",
+    "official_domains": ["facebook.com", "instagram.com", "whatsapp.com", "meta.com"],
+    "keywords": ["facebook", "instagram", "whatsapp", "meta"],
+    "category": "Social Media",
+    "country": "US",
+    "critical_assets": ["User Profile", "Ad Account", "WhatsApp Web", "Identity Verification"]
+  }
+]
